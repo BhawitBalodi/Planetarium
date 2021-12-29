@@ -1,10 +1,16 @@
-# galaxyapp
+# Planetarium
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+# Screenshorts
+
+![Untitled desigthelastone](https://user-images.githubusercontent.com/82761457/147688631-1760ae08-6b8e-4149-824f-c4c35930ee80.png)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +20,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
