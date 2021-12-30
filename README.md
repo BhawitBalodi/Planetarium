@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is all about the importance of UI/UX and I added some features which make this app very unique.
 
 # Screenshorts
 
