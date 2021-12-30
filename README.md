@@ -7,10 +7,11 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 # Screenshorts
-
-![Untitled desigthelastone](https://user-images.githubusercontent.com/82761457/147688631-1760ae08-6b8e-4149-824f-c4c35930ee80.png)
-
-
+<p align="Centre">
+  <img src="https://user-images.githubusercontent.com/82761457/147729789-739b91d3-57e6-4a9e-bd2b-c44441493f8e.png" width="278">
+  <img src="https://user-images.githubusercontent.com/82761457/147730051-e34b3363-7281-4f0c-b736-b043ef9dc43b.png" width="278">
+  <img src="https://user-images.githubusercontent.com/82761457/147730187-dd79c8ec-1930-43a6-bde4-ef3c07d46bd8.png" width="278">
+</p>
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -20,4 +21,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
